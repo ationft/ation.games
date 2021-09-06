@@ -1,0 +1,11 @@
+{
+  "name": "ation",
+  "version": "1.0.0",
+  "description": "Ation is limited set of adventurer nouns generated and stored on chain. Ation indicates an action, process, state, condition, or result. Rarity is set by the number of characters in the word, one variation per character. Other functionality are intentionally omitted for others to interpret.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
